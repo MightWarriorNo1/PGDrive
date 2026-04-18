@@ -1,17 +1,3 @@
-<img align=right width=250px  src="pgdrive/assets/PGDrive.png" />
-
-# PGDrive: an open-ended driving simulator with infinite scenes
-
-[![build](https://github.com/decisionforce/pgdrive/workflows/test/badge.svg)](http://github.com/decisionforce/pgdrive/actions)
-[![codecov](https://codecov.io/gh/decisionforce/pgdrive/branch/main/graph/badge.svg?token=1ZYN8L5397)](https://codecov.io/gh/decisionforce/pgdrive)
-[![Documentation](https://readthedocs.org/projects/pgdrive/badge/?version=latest)](https://pgdrive.readthedocs.io)
-[![GitHub license](https://img.shields.io/github/license/decisionforce/pgdrive)](https://github.com/decisionforce/pgdrive/blob/main/LICENSE.txt)
-[![GitHub stars](https://img.shields.io/github/stars/decisionforce/pgdrive)](https://github.com/decisionforce/pgdrive/stargazers)
-
-**This project is deprecated and merged into [MetaDrive](https://github.com/decisionforce/metadrive). Please follow the MetaDrive repo for the latest development and maintenance.** 
-
-**[  📺 [Website](https://decisionforce.github.io/pgdrive/) | 🏗 [Github Repo](https://github.com/decisionforce/pgdrive) | 📜 [Documentation](https://pgdrive.readthedocs.io/) | 🎓 [Paper](https://arxiv.org/pdf/2012.13681) ]**
-
 Welcome to PGDrive! PGDrive is an driving simulator with many key features, including:
 
 - 🎏 **Lightweight**: Extremely easy to download, install and run in almost all platforms.
@@ -34,7 +20,7 @@ pip install pgdrive
 If you wish to contribute to this project or make some modification, you can clone the latest version of PGDrive locally and install via:
 
 ```bash
-git clone https://github.com/decisionforce/pgdrive.git
+git clone https://github.com/mightwarriorno1/pgdrive.git
 cd pgdrive
 pip install -e .
 ```
@@ -132,7 +118,7 @@ The following table presents some predefined environment names.
 ## 🏫 Documentations
 
 More information about PGDrive can be found in [PGDrive Documentation](https://pgdrive.readthedocs.io). 
-Besides, the training code of our [paper](https://arxiv.org/pdf/2012.13681) can be found in [this repo](https://github.com/decisionforce/pgdrive-generalization-paper).
+Besides, the training code of our [paper](https://arxiv.org/pdf/2012.13681) can be found in [this repo](https://github.com/mightwarriorno1/pgdrive-generalization-paper).
 
 ## 📎 Citation
 
@@ -146,9 +132,4 @@ If you find this work useful in your project, please consider to cite it through
   journal={arXiv preprint arXiv:2012.13681},
   year={2020}
 }
-```
-
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/2d6fabe328a644b49e1269497b741057)](https://www.codacy.com/gh/decisionforce/pgdrive/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=decisionforce/pgdrive&amp;utm_campaign=Badge_Grade)
-[![GitHub contributors](https://img.shields.io/github/contributors/decisionforce/pgdrive)](https://github.com/decisionforce/pgdrive/graphs/contributors)
-[![GitHub forks](https://img.shields.io/github/forks/decisionforce/pgdrive)](https://github.com/decisionforce/pgdrive/network)
-[![GitHub issues](https://img.shields.io/github/issues/decisionforce/pgdrive)](https://github.com/decisionforce/pgdrive/issues)
+``
